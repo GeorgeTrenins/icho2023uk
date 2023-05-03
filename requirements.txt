@@ -1,6 +1,6 @@
-numpy>=1.14
-scipy>=1.0
-matplotlib>=3.0
-scikit-learn>=1.0
-ipython>=7
-ipywidgets>=8
+ipywidgets=8
+matplotlib
+numpy
+scipy
+scikit-learn
+ipython
